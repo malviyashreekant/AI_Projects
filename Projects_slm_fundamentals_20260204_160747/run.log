@@ -1,0 +1,6 @@
+stdout:
+Hi there. How can I help?
+RAG retrieves documents then generates using that context.
+
+
+stderr:
