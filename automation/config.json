@@ -1,0 +1,12 @@
+{
+  "projects_root": ".",
+  "project_prefix": "Projects_",
+  "git_path": "C:\\Users\\malvi\\Git\\mingw64\\libexec\\git-core\\git.exe",
+  "topics": [
+    "LLM Fundamentals",
+    "RAG Fundamentals",
+    "SLM Fundamentals",
+    "LangChain Basics",
+    "LangGraph Basics"
+  ]
+}
