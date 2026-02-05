@@ -1,0 +1,27 @@
+stdout:
+=== Content Categorizer ===
+
+Article 1: New AI model achieves breakthrough in natural language under...
+Categories: **Categories:** Technology
+
+**Confidence:** High
+
+This content clearly falls under Technology as it discusses an AI model advancement in natural language understanding and performance benchmarks.
+
+Article 2: Market analysis shows tech stocks rising amid strong Q4 earn...
+Categories: **Categories:** Technology, Business
+
+**Confidence:** High
+
+**Reasoning:** The content discusses tech stocks and earnings reports, which directly relates to both Technology (the sector being analyzed) and Business (market analysis and financial performance).
+
+Article 3: Study reveals regular exercise reduces risk of chronic disea...
+Categories: **Categories:** Health, Education
+
+**Confidence:** High
+
+**Reasoning:** The content is primarily about health outcomes (chronic disease risk reduction) and presents research findings (educational information). While it could tangentially relate to wellness businesses, the core focus is health and scientific education.
+
+
+
+stderr:
