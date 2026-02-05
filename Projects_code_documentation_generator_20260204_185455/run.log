@@ -1,0 +1,48 @@
+stdout:
+=== Code Documentation Generator ===
+
+# Function Documentation: calculate_discount
+
+## Docstring
+
+```python
+def calculate_discount(price, customer_tier, quantity):
+    """
+    Calculate the final price of an item after applying customer tier and bulk discounts.
+    
+    This function applies two types of discounts:
+    1. Customer tier discount: Based on the customer's loyalty status (gold, silver, bronze)
+    2. Bulk discount: Based on the quantity purchased (1% per unit, capped at 20%)
+    
+    The total discount is capped at a maximum of 30% to ensure profitability.
+    
+    Args:
+        price (float): The original price of the item before discounts.
+            Must be a positive number.
+        
+        customer_tier (str): The customer's loyalty tier. Determines base discount rate.
+            Valid values:
+            - "gold": 15% base discount
+            - "silver": 10% base discount
+            - "bronze": 5% base discount
+            - Other values: 0% base discount (no tier discount applied)
+        
+        quantity (int): The number of items being purchased.
+            Must be a non-negative integer.
+            Bulk discount is calculated as 1% per unit, maximum 20%.
+    
+    Returns:
+        float: The final price after applying all applicable discounts.
+            Returns the discounted price rounded to 2 decimal places.
+    
+    Raises:
+        TypeError: If price is not a number or quantity is not an integer.
+        ValueError: If price is negative or quantity is negative.
+    
+    Notes:
+        - Maximum total discount is capped at 30%
+        - Bulk discount is calculated as min(quantity * 0.01, 0.20)
+        -
+
+
+stderr:
