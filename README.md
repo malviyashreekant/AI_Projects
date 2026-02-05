@@ -1,6 +1,6 @@
 # AI Projects Portfolio 🤖
 
-This repository showcases a **collection of AI projects** demonstrating practical, real-world AI use cases with working code and Claude AI integration.
+This repository showcases a **collection of AI projects** demonstrating practical, real-world AI use cases with working code and advanced AI integration.
 
 ## About
 
@@ -67,4 +67,4 @@ python src/main.py
 
 ---
 
-**AI Projects Portfolio** | **Powered by Claude**
+**AI Projects Portfolio**
