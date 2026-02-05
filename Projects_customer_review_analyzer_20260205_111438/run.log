@@ -1,0 +1,34 @@
+stdout:
+=== Customer Review Analyzer ===
+
+Review 1: Love this product! Setup was easy and support team was super helpful. 5 stars!
+Sentiment: Positive
+
+Themes: Product quality, Easy setup, Customer support
+
+Action: None
+
+Review 2: Good overall but the mobile app crashes frequently. Desktop version works fine.
+Sentiment: Mixed
+
+Themes: Product quality, Mobile app performance, Desktop functionality, Technical issues
+
+Action: Investigate and fix mobile app crashes; prioritize mobile app stability improvements
+
+Review 3: Disappointed. Features promised in marketing don't work as expected. Refund requested.
+Sentiment: Negative
+
+Themes: False advertising, Product malfunction, Customer dissatisfaction, Refund request
+
+Action: Process refund request, Investigate discrepancy between marketing claims and actual product performance, Review marketing materials for accuracy, Contact customer to resolve issue
+
+Review 4: Been using for 3 months. Solid tool, fair price. Wish it had better integrations.
+Sentiment: Mixed
+
+Themes: Product quality, Pricing, Integration limitations
+
+Action: Improve integration capabilities with other tools/platforms
+
+
+
+stderr:
