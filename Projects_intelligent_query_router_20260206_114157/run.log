@@ -1,0 +1,34 @@
+stdout:
+=== Intelligent Query Router ===
+
+Query 1: How do I reset my password?
+Routing: **Handler:** FAQ
+
+**Confidence:** High
+
+**Reasoning:** This is a straightforward procedural question about account management that typically has a standard, documented answer in most systems' knowledge bases. It does not require technical troubleshooting, data analysis, or calculations.
+
+Query 2: Analyze sales trends from Q3 data in attached spreadsheet
+Routing: **Handler:** ANALYTICS
+
+**Confidence:** High
+
+**Reasoning:** The query explicitly requests analysis of sales trends from historical data (Q3 spreadsheet). This is a data analysis task requiring examination, interpretation, and insights from provided datasets—a core function of the ANALYTICS handler. It's not a simple FAQ, technical issue, or basic calculation.
+
+Query 3: What's your refund policy?
+Routing: **Handler:** FAQ
+
+**Confidence:** High
+
+**Reasoning:** This is a straightforward policy question asking about refund procedures. It's a common question that should be addressed by FAQ documentation rather than requiring technical support, data analysis, or calculations.
+
+Query 4: Calculate compound interest for $10000 at 5% over 10 years
+Routing: **Handler:** CALCULATOR
+
+**Confidence:** High
+
+**Reasoning:** This is a straightforward mathematical computation request asking for a specific financial calculation (compound interest). It requires applying a formula with provided numerical inputs, which is the core function of the CALCULATOR handler. No technical troubleshooting, policy clarification, or data analysis is needed.
+
+
+
+stderr:
