@@ -1,0 +1,17 @@
+stdout:
+=== Document Q&A Assistant ===
+
+Q: How many vacation days do I get?
+A: According to the document, you accrue 15 days of PTO (Paid Time Off) per year.
+
+Q: When does health insurance start?
+A: According to the document, health benefits (medical, dental, vision coverage) start after 30 days.
+
+Q: What's the remote work policy?
+A: According to the document, the remote work policy is:
+
+**Hybrid schedule** - 3 days in office, 2 days remote. Full remote requires manager approval.
+
+
+
+stderr:
