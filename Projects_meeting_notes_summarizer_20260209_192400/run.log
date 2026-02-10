@@ -1,0 +1,26 @@
+stdout:
+=== Meeting Notes Summarizer ===
+
+# Meeting Summary
+
+## 1. Key Decisions
+- Mobile app launch confirmed as Q1 top priority
+- User testing scheduled for March 1
+- Weekly sync meetings to continue (next: Monday)
+
+## 2. Action Items
+
+| Who | What | When |
+|-----|------|------|
+| Sarah | Coordinate design mockups with design team | Feb 15 |
+| Mike | Complete backend APIs | Feb 10 |
+| Sarah | Schedule user testing and send calendar invites | This week |
+| John | Obtain final sign-off on data schema | Friday |
+
+## 3. Next Steps
+- Weekly sync meeting scheduled for next Monday
+- Design mockups due Feb 15 to stay on track for mobile app launch
+- Backend APIs completion (Feb 10) will enable testing phase
+
+
+stderr:
