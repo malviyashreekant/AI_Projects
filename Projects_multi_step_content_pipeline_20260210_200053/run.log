@@ -1,0 +1,24 @@
+stdout:
+=== Multi-Step Content Pipeline ===
+
+Step 1 - Extract Facts:
+# Key Facts
+
+• **Q4 Revenue:** $52 billion
+• **Performance:** Exceeded analyst expectations by 12%
+• **Growth Driver:** AI investments
+• **Stock Response:** 8% jump in after-hours trading
+• **2024 Plans:** Hiring 1,000 new AI researchers
+
+Step 2 - Summarize:
+A company reported $52 billion in Q4 revenue that exceeded expectations by 12%, driven by AI investments, causing its stock to jump 8% and prompting plans to hire 1,000 new AI researchers in 2024.
+
+Step 3 - Categorize:
+# Categorization: **Business/Tech/Finance** (Multi-category)
+
+This news spans multiple domains:
+
+- **Finance**: Q4 revenue figures ($52B), earnings beat (12% above expectations), stock performance (8
+
+
+stderr:
