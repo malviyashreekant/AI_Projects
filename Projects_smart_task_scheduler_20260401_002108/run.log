@@ -1,0 +1,37 @@
+stdout:
+=== Smart Task Scheduler ===
+
+# Optimal Task Schedule
+
+## Priority Order & Timeline
+
+### 1. **Code Review for Project X** ⚠️ URGENT
+- **Deadline:** 2026-04-03
+- **Priority:** High
+- **Effort:** 4h
+- **Recommended Start:** 2026-03-31
+- **Rationale:** Earliest deadline; high priority; manageable duration allows completion before deadline
+
+### 2. **Team Meeting Prep** 
+- **Deadline:** 2026-04-05
+- **Priority:** Medium
+- **Effort:** 2h
+- **Recommended Start:** 2026-04-04
+- **Rationale:** Short task; can be completed day before; follows code review completion
+
+### 3. **Submit Quarterly Report**
+- **Deadline:** 2026-04-15
+- **Priority:** High
+- **Effort:** 8h
+- **Recommended Start:** 2026-04-08
+- **Rationale:** High priority with substantial effort; 7-day buffer before deadline allows for revisions
+
+### 4. **Update Documentation**
+- **Deadline:** 2026-04-20
+- **Priority:** Low
+- **Effort:** 6h
+- **Recommended Start:** 2026-04-16
+- **
+
+
+stderr:
