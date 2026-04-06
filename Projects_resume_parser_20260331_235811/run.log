@@ -1,0 +1,54 @@
+stdout:
+=== Resume Parser ===
+
+# Resume Parsing Results
+
+## 1. Personal Information
+| Field | Value |
+|-------|-------|
+| Name | John Smith |
+| Title | Software Engineer |
+| Email | john.smith@email.com |
+| Phone | (555) 123-4567 |
+
+## 2. Work Experience
+
+### Position 1: Senior Developer
+- **Company:** Tech Corp
+- **Duration:** 2020-2024 (4 years)
+- **Key Responsibilities:**
+  - Led team of 5 developers on web applications
+  - Implemented microservices architecture
+- **Technologies:** Python, React, AWS
+
+### Position 2: Junior Developer
+- **Company:** StartupXYZ
+- **Duration:** 2018-2020 (2 years)
+- **Key Responsibilities:**
+  - Built REST APIs and database systems
+  - Collaborated on mobile app development
+
+## 3. Education
+| Degree | Field | Institution | Graduation |
+|--------|-------|-------------|------------|
+| BS | Computer Science | State University | 2018 |
+
+## 4. Technical Skills
+**Languages:** Python, JavaScript, SQL
+
+**Frameworks/Libraries:** React, Node.js
+
+**Tools/Platforms:** AWS, Docker
+
+## 5. Years of Experience
+- **Total:** 6 years (2018-2024)
+- **Senior Role:** 4 years
+- **Junior Role:** 2 years
+
+## 6. Seniority Level Assessment
+**Level:** Mid-to-Senior
+
+**
+
+
+stderr:
