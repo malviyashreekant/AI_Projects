@@ -1,0 +1,36 @@
+stdout:
+=== Expense Report Analyzer ===
+
+# Expense Report Analysis
+
+## 1. Category Breakdown & Spending Patterns
+
+| Category | Amount | % of Total | Count |
+|----------|--------|-----------|-------|
+| Travel | $290.50 | 54.2% | 2 items |
+| Meals | $89.20 | 16.6% | 1 item |
+| Office Supplies | $156.75 | 29.2% | 1 item |
+| **Total** | **$536.45** | **100%** | **4 items** |
+
+**Pattern Notes:**
+- Travel dominates spending (conference-related trip)
+- Concentrated 4-day expense period (likely single business trip)
+- Mixed expense types suggest multi-purpose business travel
+
+---
+
+## 2. Policy Compliance Check
+
+✅ **COMPLIANT ITEMS:**
+- Flight ($245.50) - reasonable for conference travel
+- Taxi ($45.00) - appropriate ground transportation
+- Client dinner ($89.20) - legitimate business meal
+
+⚠️ **REQUIRES VERIFICATION:**
+- **Office Supplies ($156.75)** - *Needs clarification*
+  - Amount is substantial for "supplies"
+  - Timing during travel trip is unusual
+  - Confirm: Is this equipment or consumables?
+
+
+stderr:
