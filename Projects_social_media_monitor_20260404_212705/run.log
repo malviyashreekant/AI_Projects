@@ -1,0 +1,43 @@
+stdout:
+=== Social Media Monitor ===
+
+# Social Media Sentiment Analysis
+
+## 1. Overall Sentiment Analysis
+
+| Platform | Sentiment | Strength |
+|----------|-----------|----------|
+| Twitter | **Positive** | Strong (+) |
+| Facebook | **Negative** | Moderate (−) |
+| Instagram | **Positive** | Moderate (+) |
+| LinkedIn | **Positive** | Strong (+) |
+| **Overall** | **Mixed-Positive** | 75% positive, 25% negative |
+
+---
+
+## 2. Key Themes & Topics
+
+| Theme | Mentions | Context |
+|-------|----------|---------|
+| **Product Quality** | 2 | Improvements noted; features praised |
+| **Customer Service** | 1 | Pain point; needs attention |
+| **Innovation** | 1 | App updates resonating well |
+| **B2B Partnerships** | 1 | Strong business relationships |
+
+---
+
+## 3. Engagement Opportunities
+
+### High Priority
+- **Facebook complaint**: Respond promptly with empathy; offer direct resolution
+- **Request details** on customer service issue to prevent recurrence
+
+### Medium Priority
+- **Twitter**: Reply with gratitude; ask for specific feature feedback
+- **Instagram**: Acknowledge quality improvements; ask what drove the positive perception
+
+### Strategic
+- **LinkedIn**: Engage
+
+
+stderr:
