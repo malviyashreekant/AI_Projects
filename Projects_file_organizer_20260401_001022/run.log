@@ -1,0 +1,38 @@
+stdout:
+=== File Organizer ===
+
+# File Organization Analysis & Recommendations
+
+## 1. Suggested Folder Structure
+
+```
+Root/
+├── Work/
+│   ├── Reports/
+│   │   └── Q1_2026/
+│   ├── Projects/
+│   │   └── Active/
+│   ├── Meetings/
+│   └── Finance/
+├── Personal/
+│   ├── Photos/
+│   │   └── Vacations/
+│   └── Documents/
+└── Archive/
+    └── 2026/
+```
+
+## 2. File Categorization Rules
+
+| Category | Files | Location | Criteria |
+|----------|-------|----------|----------|
+| **Work Reports** | report_q1.pdf | Work/Reports/Q1_2026/ | Business documents, time-sensitive |
+| **Projects** | project_code.zip | Work/Projects/Active/ | Development, code, active work |
+| **Finance** | budget_2026.xlsx | Work/Finance/ | Budget, financial planning |
+| **Meetings** | meeting_notes.docx | Work/Meetings/ | Notes, discussions, decisions |
+| **Personal Media** | vacation_photos.zip | Personal/Photos/Vacations/ | Non-work images, personal use |
+
+## 3.
+
+
+stderr:
