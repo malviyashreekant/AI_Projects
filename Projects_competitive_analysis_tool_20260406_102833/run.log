@@ -1,0 +1,49 @@
+stdout:
+=== Competitive Analysis Tool ===
+
+# Competitive Analysis Report
+
+## 1. Pricing Comparison & Positioning
+
+| Product | Price | Price Position | Value Ratio |
+|---------|-------|---|---|
+| CompetitorC | $29/mo | Budget Leader | Low |
+| CompetitorA | $49/mo | Economy | Medium |
+| **Our Solution** | **$79/mo** | **Mid-Premium** | **High** |
+| CompetitorB | $99/mo | Premium | Very High |
+
+**Assessment:** Your pricing sits strategically between economy and premium—justified if feature claims hold up.
+
+---
+
+## 2. Feature Gap Analysis
+
+### Strengths (vs. Competitors)
+✅ **vs. CompetitorA & C:**
+- 5x-10x more contacts (5000 vs 500-1000)
+- AI automation (they lack this)
+- Advanced analytics (vs. basic/none)
+
+✅ **vs. CompetitorB:**
+- $20/mo cheaper (-20%)
+- Same core features (CRM, automation, analytics)
+
+### Weaknesses
+❌ **vs. CompetitorB:**
+- Limited contacts (5000 vs unlimited)
+- Unclear if automation is equally "advanced"
+
+❌ **vs. All:**
+- No email marketing explicitly mentioned (CompetitorA has it)
+- No mention of integrations, API, or third-party tools
+
+---
+
+## 3. Competitive Advantages & Disadvantages
+
+### Advantages
+| Advantage | Impact |
+|
+
+
+stderr:
