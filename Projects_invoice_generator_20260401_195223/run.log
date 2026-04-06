@@ -1,0 +1,60 @@
+stdout:
+=== Invoice Generator ===
+
+# PROFESSIONAL INVOICE
+
+---
+
+## INVOICE HEADER
+
+**INVOICE NUMBER:** INV-2026-0331  
+**INVOICE DATE:** March 31, 2026  
+**DUE DATE:** April 30, 2026  
+**PAYMENT TERMS:** Net 30
+
+---
+
+## BILL TO
+
+**ABC Corporation**
+
+---
+
+## ITEMIZED SERVICES
+
+| Description | Hours | Rate | Amount |
+|---|---|---|---|
+| Frontend Development | 40 | $75/hr | $3,000.00 |
+| Backend API Development | 32 | $85/hr | $2,720.00 |
+| Database Setup | 16 | $80/hr | $1,280.00 |
+| Testing and Deployment | 12 | $70/hr | $840.00 |
+
+---
+
+## FINANCIAL SUMMARY
+
+| | |
+|---|---|
+| **Subtotal** | **$7,840.00** |
+| **Tax (0%)** | $0.00 |
+| **TOTAL DUE** | **$7,840.00** |
+
+---
+
+## PAYMENT INSTRUCTIONS
+
+**Payment Method Options:**
+- Bank Transfer
+- Credit Card
+- Check (payable to [Your Company Name])
+
+**Bank Details:**
+- Account Name: [Your Company Name]
+- Bank: [Bank Name]
+- Account Number: [Account Number]
+- Routing Number: [Routing Number]
+
+**Please reference Invoice #INV-2026-0
+
+
+stderr:
