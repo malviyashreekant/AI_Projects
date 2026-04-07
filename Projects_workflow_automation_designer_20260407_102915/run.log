@@ -1,0 +1,52 @@
+stdout:
+=== Workflow Automation Designer ===
+
+# Customer Onboarding Automation Workflow
+
+## 1. OPTIMIZED WORKFLOW DESIGN
+
+### Current State vs. Future State
+
+```
+CURRENT STATE (Manual - 5-7 days)
+├── Customer submits info via email
+├── Manual email verification
+├── PDF collection (scattered)
+├── Manual data entry (prone to errors)
+├── Manager email approval (delays)
+└── Manual account setup (multiple systems)
+
+FUTURE STATE (Automated - 2-4 hours)
+├── Self-service portal submission
+├── Automated email verification
+├── Document auto-collection & validation
+├── Auto-population & OCR processing
+├── Workflow-based approval routing
+└── API-driven multi-system provisioning
+```
+
+### Detailed Automated Workflow
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│ STAGE 1: INITIATION & VERIFICATION (15 min)                 │
+├─────────────────────────────────────────────────────────────┤
+│
+│ Customer Portal Access
+│ ├─ Automated email invitation sent
+│ ├─ One-click verification link
+│ └─ Session token auto-generated
+│
+│ Identity Verification (Automated)
+│ ├─ Email verification (instant)
+│ ├─ Phone SMS verification (optional)
+│ └─ Webhook confirmation to CRM
+│
+└─────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────┐
+│ STAGE 2: DATA COLLECTION (30 min)                           │
+├─
+
+
+stderr:
