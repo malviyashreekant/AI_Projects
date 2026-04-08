@@ -1,0 +1,29 @@
+stdout:
+=== Budget Planning Tool ===
+
+# Budget Performance Analysis & Forecast
+
+## 1. SPENDING PACE VS. TIMELINE ASSESSMENT
+
+| Category | Budget | Spent | % of Budget | Expected at 33% | Status |
+|----------|--------|-------|------------|-----------------|--------|
+| **Marketing** | $50,000 | $35,000 | 70% | $16,500 | ⚠️ AHEAD |
+| **R&D** | $100,000 | $60,000 | 60% | $33,000 | ⚠️ AHEAD |
+| **Operations** | $75,000 | $55,000 | 73% | $24,750 | ⚠️ AHEAD |
+| **TOTAL** | $300,000 | $150,000 | 50% | $99,000 | ⚠️ AHEAD |
+
+**Key Finding:** All categories are spending **50-73% faster** than the timeline suggests. At this pace, the budget will be exhausted by month 8-9 instead of month 12.
+
+---
+
+## 2. OVER/UNDER BUDGET ANALYSIS
+
+### Overspending Categories (Priority Order)
+
+**🔴 CRITICAL: Operations (+$30,250 variance)**
+- Spending at 73% of budget with only 33% of year elapsed
+- Projected overrun: **$51,750** (69% over budget)
+- Likely causes: Unexpected maintenance, staffing costs, utilities
+
+
+stderr:
