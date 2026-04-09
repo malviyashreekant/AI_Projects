@@ -1,0 +1,33 @@
+stdout:
+=== Compliance Monitor ===
+
+# Compliance Status & Recommendations Report
+
+## 1. Compliance Status Summary
+
+| Framework | Status | Last Audit | Days Since | Priority |
+|-----------|--------|-----------|-----------|----------|
+| GDPR Data Protection | ✅ Compliant | 2026-02-15 | Current | Low |
+| HIPAA Privacy Rules | ✅ Compliant | 2026-03-01 | Current | Low |
+| SOX Financial Controls | ⚠️ Needs Review | 2025-12-01 | 90+ days | **HIGH** |
+| ISO 27001 Security | ❌ Non-compliant | 2026-01-20 | 60+ days | **CRITICAL** |
+
+**Overall Compliance Rate: 50% Fully Compliant**
+
+---
+
+## 2. Critical Non-Compliance Issues
+
+### 🔴 ISO 27001 Security (CRITICAL)
+- **Status:** Non-compliant as of 2026-01-20
+- **Risk Level:** Critical
+- **Key Concerns:**
+  - Information security management system gaps
+  - Potential vulnerabilities in access controls
+  - Risk of data breach and regulatory penalties
+  - May impact customer trust and contracts
+
+### 🟠 SOX Financial Controls
+
+
+stderr:
