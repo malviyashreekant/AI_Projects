@@ -1,0 +1,42 @@
+stdout:
+=== Contract Review Assistant ===
+
+# Contract Risk Review: Company A & Vendor B
+
+## 1. KEY TERMS & OBLIGATIONS SUMMARY
+
+| Element | Terms | Assessment |
+|---------|-------|------------|
+| **Duration** | 24 months + auto-renewal | Long-term commitment with sticky exit |
+| **Cost** | $120,000/year ($10K/mo, net 30) | Moderate; payment terms reasonable |
+| **Termination** | 90-day notice either party | Relatively balanced but lengthy |
+| **IP Rights** | Vendor retains all ownership | **Major risk** |
+| **Exclusivity** | Yes, single supplier | **Significant constraint** |
+| **Liability** | No limitation clause | **Unusual and dangerous** |
+
+---
+
+## 2. CRITICAL RISK FACTORS 🚩
+
+### **HIGH PRIORITY RISKS**
+
+**A. Unlimited Liability Exposure**
+- Absence of liability caps creates open-ended financial risk
+- No distinction between direct/indirect/consequential damages
+- Could expose Company A to vendor's negligence claims
+- **Impact**: Potentially catastrophic costs
+
+**B. Vendor IP Ownership**
+- Company A has no ownership of work product
+- Cannot reuse, modify, or transfer deliverables
+- Creates vendor lock-in and dependency
+- **Impact**: Loss of competitive advantage; switching costs increase
+
+**C. Exclusive Supplier Arrangement**
+- Cannot use alternative vendors during term
+- Reduces negotiating leverage mid-contract
+- Vendor has monopoly position
+- **
+
+
+stderr:
