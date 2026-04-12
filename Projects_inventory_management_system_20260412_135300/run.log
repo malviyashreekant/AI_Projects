@@ -1,0 +1,35 @@
+stdout:
+=== Inventory Management System ===
+
+# Inventory Analysis & Recommendations
+
+## 1. Stock Status Alerts
+
+| Item | Current Stock | Status | Risk Level | Days Supply |
+|------|---------------|--------|------------|-------------|
+| **Widget A** | 45 units | Healthy | Low | 3.0 months |
+| **Component B** | 8 units | ⚠️ CRITICAL | High | 10 days |
+| **Tool C** | 120 units | 🔴 OVERSTOCKED | Medium | 12 months |
+
+---
+
+## 2. Reorder Recommendations
+
+### **URGENT: Component B**
+- **Action**: Order immediately
+- **Recommended Qty**: 75 units (3 months supply)
+- **Rationale**: Current stock covers only 10 days; usage (30/mo) far exceeds reorder point (25)
+- **Lead time consideration**: Add buffer for supplier delays
+
+### **Widget A**
+- **Action**: Routine reorder
+- **Recommended Qty**: 45 units (3 months supply)
+- **Timing**: Within 2 weeks
+- **Rationale**: Current reorder point (20) is appropriate; maintain 3-month buffer
+
+### **Tool C**
+- **Action**: Defer ordering
+- **Recommended
+
+
+stderr:
