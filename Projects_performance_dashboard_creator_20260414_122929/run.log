@@ -1,0 +1,30 @@
+stdout:
+=== Performance Dashboard Creator ===
+
+# Dashboard Insights & Visualizations
+
+## 1. KPI SUMMARY WITH STATUS INDICATORS
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                    PERFORMANCE DASHBOARD                         │
+├─────────────────────────────────────────────────────────────────┤
+│
+│  📊 SALES                          ⚠️  AT RISK
+│  ├─ Current:        $150,000
+│  ├─ Target:         $200,000
+│  ├─ Achievement:    75% ████████░░░░░░░░░░
+│  ├─ Gap:            -$50,000 (-25%)
+│  └─ Status:         Below Target
+│
+│  📈 CONVERSION RATE                ⚠️  AT RISK
+│  ├─ Current:        2.5%
+│  ├─ Target:         3.0%
+│  ├─ Achievement:    83% ████████░░░░░░░░░░
+│  ├─ Gap:            -0.5% (-17%)
+│  └─ Status:         Below Target
+│
+│  😊 CUSTOMER SATISFACTION          
+
+
+stderr:
