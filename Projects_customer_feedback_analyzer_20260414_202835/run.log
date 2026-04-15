@@ -1,0 +1,41 @@
+stdout:
+=== Customer Feedback Analyzer ===
+
+# Customer Feedback Analysis Report
+
+## 1. Key Themes & Sentiment Patterns
+
+| Theme | Sentiment | Frequency | Impact |
+|-------|-----------|-----------|--------|
+| **Product Quality** | Positive | High | Core strength |
+| **Delivery/Logistics** | Negative | Medium | Operational issue |
+| **Customer Support** | Positive | High | Competitive advantage |
+| **Technical Performance** | Negative | Medium | User experience blocker |
+| **UI/UX Design** | Mixed | Medium | Usability concern |
+
+**Overall Pattern:** Strong product-market fit with operational and technical execution gaps
+
+---
+
+## 2. Critical Issues (Immediate Action Required)
+
+### 🔴 **Priority 1: App Stability**
+- **Issue:** Frequent crashes (2/5 rating)
+- **Impact:** High—directly affects user retention
+- **Action Items:**
+  - Conduct crash log analysis within 48 hours
+  - Identify top 3 crash scenarios
+  - Release hotfix patch within 1-2 weeks
+  - Implement automated crash reporting
+
+### 🟠 **Priority 2: Delivery Speed**
+- **Issue:** Slow fulfillment (mentioned in 4/5 survey)
+- **Impact:** Medium—affects customer satisfaction despite product quality
+- **Action Items:**
+  - Audit current delivery timeline vs. customer expectations
+  - Identify bottlenecks (inventory, shipping, processing)
+  - Set target delivery SLA
+  - Communicate improvements to
+
+
+stderr:
