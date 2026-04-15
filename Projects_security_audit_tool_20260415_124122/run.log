@@ -1,0 +1,24 @@
+stdout:
+=== Email Auto-Responder ===
+
+Email 1: Order Status
+Response:
+**Subject: RE: Order Status**
+
+Thank you for reaching out. I'd be happy to help you track your order. Could you please provide your order number or the email address associated with your account so I can look up the current delivery status for product #12345?
+
+Email 2: Meeting Request
+Response:
+**Subject: RE: Meeting Request**
+
+Thank you for reaching out. Friday at 2 PM works well for me—please send over a calendar invite and any relevant materials you'd like to cover beforehand. I look forward to discussing the integration details with you.
+
+Email 3: Unsubscribe
+Response:
+**Subject: RE: Unsubscribe**
+
+Thank you for reaching out. We have processed your request and removed your email address from our marketing list effective immediately. You should no longer receive newsletters or promotional communications from us.
+
+
+
+stderr:
